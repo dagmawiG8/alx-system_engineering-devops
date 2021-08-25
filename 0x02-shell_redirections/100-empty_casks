@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d '/' -f 1 | find -empty
+cut -d'/' -f 1 | find -empty | rev
