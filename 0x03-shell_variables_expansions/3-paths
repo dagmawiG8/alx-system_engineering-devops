@@ -1,2 +1,2 @@
 #!/bin/bash
-fimd . -type d | wc -1
+find $PATH -type d | wc -l
